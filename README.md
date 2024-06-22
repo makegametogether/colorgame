@@ -16,7 +16,7 @@ Check out the live demo: [Color Game Demo](https://dimango.mangveloper.com/color
 
 ## Screenshot
 
-![Color Game Screenshot](https://github.com/your-username/color-game/blob/main/screenshots/screenshot.png)
+![Color Game Screenshot](https://github.com/nightendeavors/colorgame/blob/main/screenshot.png?raw=true)
 
 ## Project setup
 
